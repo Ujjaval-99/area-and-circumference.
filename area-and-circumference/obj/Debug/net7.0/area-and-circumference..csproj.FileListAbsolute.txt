@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\area-and-circumference..csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\area-and-circumference..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\area-and-circumference..AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\area-and-circumference..AssemblyInfo.cs
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\area-and-circumference..csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\bin\Debug\net7.0\area-and-circumference..exe
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\bin\Debug\net7.0\area-and-circumference..deps.json
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\bin\Debug\net7.0\area-and-circumference..runtimeconfig.json
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\bin\Debug\net7.0\area-and-circumference..dll
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\bin\Debug\net7.0\area-and-circumference..pdb
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\area-and-circumference..dll
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\refint\area-and-circumference..dll
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\area-and-circumference..pdb
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\area-and-circumference..genruntimeconfig.cache
+C:\Users\admin\Desktop\Promact Trainning\area-and-circumference\area-and-circumference\obj\Debug\net7.0\ref\area-and-circumference..dll
